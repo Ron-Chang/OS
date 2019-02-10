@@ -99,4 +99,4 @@ With sysfs.conf
 
 <hr />  
 
-![30 Things to do After Installing Ubuntu 18.04 LTS (all-in-one video)](https://www.youtube.com/watch?v=BLVtxpm5c2A)
+[30 Things to do After Installing Ubuntu 18.04 LTS (all-in-one video)](https://www.youtube.com/watch?v=BLVtxpm5c2A)
