@@ -1,4 +1,6 @@
 # Kali Installation  
+<p align="right">by <a href="https://github.com/Ron-Chang">Ron Chang</a></p>
+
 
 Hardware: MacBook Pro 2015 Mid  
 __Installed on External HDD with WinOS (Not BootCamp)__  
@@ -92,7 +94,7 @@ follow the order and input `p`,`x`,`n`,`w`,`Y` with `Return` between all of them
 
 reboot.
 
-After the steps above, `WinOS` should booting.
+After the steps above, `Windows` and `Kali` should be able to boot up.
 
 #### - Convert the Master Boot Record (MBR) to hybrid (MacOS)  
 Follow [Kali Linux Installation Procedure](https://docs.kali.org/installation/kali-linux-dual-boot-on-mac-hardware), from Step 12 and 13.  
