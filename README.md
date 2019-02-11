@@ -6,4 +6,4 @@
 
 [Git SSH key Setup](https://github.com/Ron-Chang/Settings/tree/master/Github)
 
-[Dual boot Kali Macbook, install from USB to external Hard Drive with GPT Windows 10](https://github.com/Ron-Chang/Settings/blob/master/Linux/KaliSetup/README.md)
+[Dual boot Kali on Macbook, installed by USB Drive to external hard drive with GPT Windows 10](https://github.com/Ron-Chang/Settings/blob/master/Linux/KaliSetup/README.md)
