@@ -1,9 +1,33 @@
+# PATH #FF8820
 PATH=$PATH:/usr/local/bin/
-
-# If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
-#export PATH=/usr/local/bin:$PATH
-#export PATH="/usr/local/Cellar/python/3.7.2/bin:$PATH"
+export DB_USER="tester001"
+export DB_PASS="pass001"
+# export PYTHONPATH="/Users/ron/Documents/Script_Project/Tiny_function/"
+
+# source #5CB5E7
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.bash_profile
+# source /usr/local/opt/nvm/nvm.sh
+
+# alias #6BE443
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh
+# python #003EFF
+alias pip3='python3 -m pip'
+alias pyuic='python3 -m PyQt5.uic.pyuic'
+alias icns='python3 /Users/ron/Documents/Script_Project/icns_maker/main.py'
+alias gitignore='python3 /Users/ron/Documents/Script_Project/Tiny_function/gitignore.py'
+alias mn='cd /Users/ron/Documents/MyNotebook/'
+alias sp='cd /Users/ron/Documents/Script_Project/'
+# system#FFD800
+alias python='python3'
+alias all='ls -al'
+alias hg='history | grep'
+alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder'
+alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder'
+# alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 
 
 # Path to your oh-my-zsh installation.
@@ -98,14 +122,8 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 # export PYTHONIOENCODING="utf8"
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/local/opt/nvm/nvm.sh
-source ~/.bash_profile

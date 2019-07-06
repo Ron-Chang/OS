@@ -1,7 +1,8 @@
-
-# Setting PATH for Python 3.7
-#export PATH=$PATH:/usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/bin
-#export PATH="/usr/local/opt/python/libexec/bin:$PATH"
-#export PATH=$PATH:/usr/local/opt/python/bin/python3.7
-#export PATH=$PATH:/opt/pkg_uninstaller
+# Set PATH for Python 3.7
 export PATH=$PATH:/usr/local/lib/python3.7
+
+# Set path for Django
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+export PROJECT_HOME=$HOME/Documents/Script_Project/my_project
+source /usr/local/bin/virtualenvwrapper.sh
