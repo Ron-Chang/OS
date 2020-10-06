@@ -1,9 +1,14 @@
-# Settings Backup List
+# Linux
 
-[.rc backup](https://github.com/Ron-Chang/Settings/tree/master/File_Backup)
+[Ubuntu Setup](Linux/ubuntu.md)
+>Setup Ubuntu keyboards as macOS 
+[Kali Setup](Linux/kali.md)
+>Dual boot Kali on macintosh from external hard drive with GPT Windows 10
 
-[Linux Setup as macOS keymapping](https://github.com/Ron-Chang/Settings/tree/master/UbuntuSetup)
+# macOS
 
-[Git SSH key Setup](https://github.com/Ron-Chang/Settings/tree/master/Github)
+inprogress
 
-[Dual boot Kali on Macbook, installed by USB Drive to external hard drive with GPT Windows 10](https://github.com/Ron-Chang/Settings/blob/master/Linux/KaliSetup/README.md)
+# windows
+
+inprogress

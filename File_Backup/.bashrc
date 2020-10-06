@@ -1,1 +1,0 @@
-export PYTHONIOENCODING="utf8"
